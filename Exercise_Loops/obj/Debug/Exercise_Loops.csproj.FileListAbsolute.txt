@@ -1,0 +1,7 @@
+D:\VisualStudioCodes\Exercise_Loops\Exercise_Loops\bin\Debug\Exercise_Loops.exe.config
+D:\VisualStudioCodes\Exercise_Loops\Exercise_Loops\bin\Debug\Exercise_Loops.exe
+D:\VisualStudioCodes\Exercise_Loops\Exercise_Loops\bin\Debug\Exercise_Loops.pdb
+D:\VisualStudioCodes\Exercise_Loops\Exercise_Loops\obj\Debug\Exercise_Loops.csprojAssemblyReference.cache
+D:\VisualStudioCodes\Exercise_Loops\Exercise_Loops\obj\Debug\Exercise_Loops.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\Exercise_Loops\Exercise_Loops\obj\Debug\Exercise_Loops.exe
+D:\VisualStudioCodes\Exercise_Loops\Exercise_Loops\obj\Debug\Exercise_Loops.pdb
