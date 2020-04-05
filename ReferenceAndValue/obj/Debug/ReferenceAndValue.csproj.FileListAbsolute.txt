@@ -1,0 +1,7 @@
+D:\VisualStudioCodes\ReferenceAndValue\ReferenceAndValue\obj\Debug\ReferenceAndValue.csprojAssemblyReference.cache
+D:\VisualStudioCodes\ReferenceAndValue\ReferenceAndValue\obj\Debug\ReferenceAndValue.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\ReferenceAndValue\ReferenceAndValue\bin\Debug\ReferenceAndValue.exe.config
+D:\VisualStudioCodes\ReferenceAndValue\ReferenceAndValue\bin\Debug\ReferenceAndValue.exe
+D:\VisualStudioCodes\ReferenceAndValue\ReferenceAndValue\bin\Debug\ReferenceAndValue.pdb
+D:\VisualStudioCodes\ReferenceAndValue\ReferenceAndValue\obj\Debug\ReferenceAndValue.exe
+D:\VisualStudioCodes\ReferenceAndValue\ReferenceAndValue\obj\Debug\ReferenceAndValue.pdb
