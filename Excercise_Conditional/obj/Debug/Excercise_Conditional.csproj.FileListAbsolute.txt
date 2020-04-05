@@ -1,0 +1,7 @@
+D:\VisualStudioCodes\Excercise_Conditional\Excercise_Conditional\bin\Debug\Excercise_Conditional.exe.config
+D:\VisualStudioCodes\Excercise_Conditional\Excercise_Conditional\bin\Debug\Excercise_Conditional.exe
+D:\VisualStudioCodes\Excercise_Conditional\Excercise_Conditional\bin\Debug\Excercise_Conditional.pdb
+D:\VisualStudioCodes\Excercise_Conditional\Excercise_Conditional\obj\Debug\Excercise_Conditional.csprojAssemblyReference.cache
+D:\VisualStudioCodes\Excercise_Conditional\Excercise_Conditional\obj\Debug\Excercise_Conditional.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\Excercise_Conditional\Excercise_Conditional\obj\Debug\Excercise_Conditional.exe
+D:\VisualStudioCodes\Excercise_Conditional\Excercise_Conditional\obj\Debug\Excercise_Conditional.pdb
