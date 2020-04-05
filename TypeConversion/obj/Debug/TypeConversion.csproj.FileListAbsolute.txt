@@ -1,0 +1,6 @@
+D:\VisualStudioCodes\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+D:\VisualStudioCodes\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+D:\VisualStudioCodes\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+D:\VisualStudioCodes\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+D:\VisualStudioCodes\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb
