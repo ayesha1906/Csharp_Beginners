@@ -1,0 +1,6 @@
+D:\VisualStudioCodes\ArrayandStrings\ArrayandStrings\bin\Debug\ArrayandStrings.exe.config
+D:\VisualStudioCodes\ArrayandStrings\ArrayandStrings\bin\Debug\ArrayandStrings.exe
+D:\VisualStudioCodes\ArrayandStrings\ArrayandStrings\bin\Debug\ArrayandStrings.pdb
+D:\VisualStudioCodes\ArrayandStrings\ArrayandStrings\obj\Debug\ArrayandStrings.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\ArrayandStrings\ArrayandStrings\obj\Debug\ArrayandStrings.exe
+D:\VisualStudioCodes\ArrayandStrings\ArrayandStrings\obj\Debug\ArrayandStrings.pdb
