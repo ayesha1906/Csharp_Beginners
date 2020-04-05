@@ -1,0 +1,7 @@
+D:\VisualStudioCodes\StringsFundamentals\StringsFundamentals\bin\Debug\StringsFundamentals.exe.config
+D:\VisualStudioCodes\StringsFundamentals\StringsFundamentals\bin\Debug\StringsFundamentals.exe
+D:\VisualStudioCodes\StringsFundamentals\StringsFundamentals\bin\Debug\StringsFundamentals.pdb
+D:\VisualStudioCodes\StringsFundamentals\StringsFundamentals\obj\Debug\StringsFundamentals.csprojAssemblyReference.cache
+D:\VisualStudioCodes\StringsFundamentals\StringsFundamentals\obj\Debug\StringsFundamentals.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\StringsFundamentals\StringsFundamentals\obj\Debug\StringsFundamentals.exe
+D:\VisualStudioCodes\StringsFundamentals\StringsFundamentals\obj\Debug\StringsFundamentals.pdb
