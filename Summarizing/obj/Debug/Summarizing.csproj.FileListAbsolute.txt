@@ -1,0 +1,7 @@
+D:\VisualStudioCodes\Summarizing\Summarizing\obj\Debug\Summarizing.csprojAssemblyReference.cache
+D:\VisualStudioCodes\Summarizing\Summarizing\obj\Debug\Summarizing.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\Summarizing\Summarizing\bin\Debug\Summarizing.exe.config
+D:\VisualStudioCodes\Summarizing\Summarizing\bin\Debug\Summarizing.exe
+D:\VisualStudioCodes\Summarizing\Summarizing\bin\Debug\Summarizing.pdb
+D:\VisualStudioCodes\Summarizing\Summarizing\obj\Debug\Summarizing.exe
+D:\VisualStudioCodes\Summarizing\Summarizing\obj\Debug\Summarizing.pdb
